@@ -26,4 +26,4 @@ The BiLSTM model significantly outperformed the preliminary Multi-Layer Perceptr
 
 ##  Full Thesis Documentation
 The complete theoretical background, methodology, and detailed discussion of the results are available in the full thesis document (in Italian):
-* 📂 [Read the Full Thesis (PDF)](./docs/Tesi_Galetta_definitiva.pdf)
+* 📂 [Read the Full Thesis (PDF)](./docs/Tesi_Galetta_Aaron.pdf)
